@@ -8,11 +8,14 @@ This is a simple Spring Boot application demonstrating basic CRUD operations wit
 1. Clone the repository to your local machine:
    git clone https://github.com/Devu-Ashish/CRUD-No-DB.git
 2. Go to the project directory:
-   cd <CRUD-No-DB>
-3. Build the project with Maven:
+   
+   cd CRUD-No-DB
+4. Build the project with Maven:
+   
    mvn clean install
 # Usage
 Run the Spring Boot application:
+
   mvn spring-boot:run
 Now, Visit http://localhost:8080 in your web browser to see the application in action.
 Here are the available endpoints:
